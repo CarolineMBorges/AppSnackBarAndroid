@@ -1,0 +1,3 @@
+Este projeto tem como objetivo ensinar um pouco sobre o uso do SnackBar
+SnackBar é um componente interessante para exibir mensagens ao usuário,
+também pode ser interessante para interagir com o usuário.
